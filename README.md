@@ -84,4 +84,4 @@ This project is part of my journey of learning **Machine Learning and Python**, 
 
 **Varsha**
 
-*Machine Learning Fresher | Learning by Building Projects*
+*Varsha AI & ML Graduate | Junior Data Scientist & Machine Learning Engineer | Python | SQL | Excel | Power BI | Prompt Engineer | Front-End Developer*
