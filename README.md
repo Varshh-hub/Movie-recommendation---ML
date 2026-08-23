@@ -1,10 +1,10 @@
-# 🎬 Movie Recommendation System
+# Movie Recommendation System
 
 My **second Machine Learning project** as a fresher, built to understand how recommendation systems work using Python and basic NLP techniques.
 
 This project recommends movies similar to a movie selected by the user based on its **genre and overview**.
 
-## 🧠 About the Project
+## About the Project
 
 I built this project as a **Content-Based Movie Recommendation System**.
 
@@ -18,7 +18,7 @@ recommend_movies("Grave of the Fireflies")
 
 returns a list of movies that are considered similar based on the available movie information.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python
 * Pandas
@@ -27,7 +27,7 @@ returns a list of movies that are considered similar based on the available movi
 * Jupyter Notebook
 * CSV Dataset
 
-## 🤖 Machine Learning Techniques Used
+## Machine Learning Techniques Used
 
 The main techniques used in this project are:
 
@@ -40,7 +40,7 @@ The main information used for recommendations is:
 * Movie Genre
 * Movie Overview
 
-## 📊 Dataset
+## Dataset
 
 The project uses a `movies.csv` dataset containing movie information such as:
 
@@ -54,7 +54,7 @@ The project uses a `movies.csv` dataset containing movie information such as:
 * Vote Average
 * Vote Count
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Movie-Recommendation-System/
@@ -65,7 +65,7 @@ Movie-Recommendation-System/
 ```
 
 
-## 📚 What I Learned
+## What I Learned
 
 Through this project, I learned how to:
 
@@ -80,8 +80,8 @@ Through this project, I learned how to:
 
 This project is part of my journey of learning **Machine Learning and Python**, and it is my **second ML project**.
 
-## 👨‍💻 Author
+## Author
 
-**Nemora**
+**Varsha**
 
 *Machine Learning Fresher | Learning by Building Projects*
